@@ -1,5 +1,6 @@
 package com.example.geometry;
 
+// Класс, описывающий круг
 public class Circle {
     private double radius;
 

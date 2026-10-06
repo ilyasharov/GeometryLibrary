@@ -1,5 +1,6 @@
 package com.example.geometry;
 
+// Класс, описывающий прямоугольник
 public class Rectangle {
     private double width;
     private double height;

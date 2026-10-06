@@ -1,5 +1,6 @@
 package com.example.geometry;
 
+// Класс, описывающий треугольник
 public class Triangle {
     private double a;
     private double b;
