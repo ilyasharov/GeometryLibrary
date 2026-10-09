@@ -11,6 +11,7 @@
 
     <modules>
         <module>GeometryLibrary</module>
+        <module>GeometryUtils</module>
         <module>GeometryApp</module>
     </modules>
 
